@@ -1,4 +1,5 @@
 # BGR2GRAY
+Python version :Python 3.4.4
 using python converting color image to gray scale 
 
 
